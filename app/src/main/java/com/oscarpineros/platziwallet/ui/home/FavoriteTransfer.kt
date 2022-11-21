@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet.ui.home
+package com.oscarpineros.platziwallet.ui.home
 
 data class FavoriteTransfer(
     val id: Int,

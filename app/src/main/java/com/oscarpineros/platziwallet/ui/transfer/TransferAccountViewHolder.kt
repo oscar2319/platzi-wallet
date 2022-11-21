@@ -1,11 +1,11 @@
-package com.cristianvillamil.platziwallet.ui.transfer
+package com.oscarpineros.platziwallet.ui.transfer
 
 import android.view.View
 import android.widget.ImageView
 import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 import com.squareup.picasso.Picasso
 
 class TransferAccountViewHolder(

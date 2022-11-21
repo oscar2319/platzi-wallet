@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet.ui.home
+package com.oscarpineros.platziwallet.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.view.animation.AccelerateDecelerateInterpolator
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.fragment_home.*
 

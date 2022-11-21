@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet.ui.transfer
+package com.oscarpineros.platziwallet.ui.transfer
 
 import android.os.Bundle
 import android.text.Editable
@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 import kotlinx.android.synthetic.main.fragment_transfer.*
 import java.text.NumberFormat
 

@@ -1,10 +1,10 @@
-package com.cristianvillamil.platziwallet.ui.loans
+package com.oscarpineros.platziwallet.ui.loans
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.loan_row.view.*
 

@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet
+package com.oscarpineros.platziwallet
 
 import org.junit.Test
 

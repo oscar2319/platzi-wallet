@@ -1,9 +1,9 @@
-package com.cristianvillamil.platziwallet.ui.home
+package com.oscarpineros.platziwallet.ui.home
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 
 class FavoriteTransferAdapter : RecyclerView.Adapter<FavoriteTransferViewHolder>() {
 

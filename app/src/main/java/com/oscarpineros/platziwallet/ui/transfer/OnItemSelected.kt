@@ -1,4 +1,4 @@
-package com.cristianvillamil.platziwallet.ui.transfer
+package com.oscarpineros.platziwallet.ui.transfer
 
 interface OnItemSelected<T> {
     fun onItemSelected(item: T)

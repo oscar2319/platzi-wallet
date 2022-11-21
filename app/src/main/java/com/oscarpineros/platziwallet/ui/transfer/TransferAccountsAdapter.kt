@@ -1,9 +1,9 @@
-package com.cristianvillamil.platziwallet.ui.transfer
+package com.oscarpineros.platziwallet.ui.transfer
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.cristianvillamil.platziwallet.R
+import com.oscarpineros.platziwallet.R
 
 class TransferAccountsAdapter(private val onItemSelectedListener: OnItemSelected<TransferAccount>) :
     RecyclerView.Adapter<TransferAccountViewHolder>() {
